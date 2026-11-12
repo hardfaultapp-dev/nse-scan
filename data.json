@@ -1,0 +1,1908 @@
+{
+ "generated_at": "2026-11-13 22:03 IST",
+ "as_of": "2026-11-13",
+ "min_turnover_cr": 5,
+ "gainers": [
+  {
+   "symbol": "ANUP",
+   "close": 1725.0,
+   "prev_close": 1437.5,
+   "chg_pct": 20.0,
+   "turnover_cr": 205.7
+  },
+  {
+   "symbol": "MSTCLTD",
+   "close": 783.35,
+   "prev_close": 652.8,
+   "chg_pct": 20.0,
+   "turnover_cr": 486.8
+  },
+  {
+   "symbol": "ALICON",
+   "close": 976.15,
+   "prev_close": 832.05,
+   "chg_pct": 17.32,
+   "turnover_cr": 317.8
+  },
+  {
+   "symbol": "BLSPOLY",
+   "close": 271.23,
+   "prev_close": 234.75,
+   "chg_pct": 15.54,
+   "turnover_cr": 1648.2
+  },
+  {
+   "symbol": "DHANBANK",
+   "close": 40.24,
+   "prev_close": 35.05,
+   "chg_pct": 14.81,
+   "turnover_cr": 429.7
+  },
+  {
+   "symbol": "KENNAMET",
+   "close": 3954.8,
+   "prev_close": 3471.1,
+   "chg_pct": 13.94,
+   "turnover_cr": 344.0
+  },
+  {
+   "symbol": "SHALPAINTS",
+   "close": 95.93,
+   "prev_close": 85.2,
+   "chg_pct": 12.59,
+   "turnover_cr": 19.4
+  },
+  {
+   "symbol": "PRECOT",
+   "close": 706.8,
+   "prev_close": 628.9,
+   "chg_pct": 12.39,
+   "turnover_cr": 7.5
+  },
+  {
+   "symbol": "BPLPHARMA",
+   "close": 2120.7,
+   "prev_close": 1909.8,
+   "chg_pct": 11.04,
+   "turnover_cr": 11.0
+  },
+  {
+   "symbol": "BFUTILITIE",
+   "close": 498.55,
+   "prev_close": 450.3,
+   "chg_pct": 10.72,
+   "turnover_cr": 505.0
+  },
+  {
+   "symbol": "POWERINDIA",
+   "close": 31595.0,
+   "prev_close": 28545.0,
+   "chg_pct": 10.68,
+   "turnover_cr": 2809.3
+  },
+  {
+   "symbol": "AUTOAXLES",
+   "close": 1815.3,
+   "prev_close": 1649.0,
+   "chg_pct": 10.08,
+   "turnover_cr": 103.5
+  },
+  {
+   "symbol": "BONFIG",
+   "close": 794.5,
+   "prev_close": 722.35,
+   "chg_pct": 9.99,
+   "turnover_cr": 233.3
+  },
+  {
+   "symbol": "SILVERTUC",
+   "close": 138.67,
+   "prev_close": 126.33,
+   "chg_pct": 9.77,
+   "turnover_cr": 13.4
+  },
+  {
+   "symbol": "FIEMIND",
+   "close": 2133.3,
+   "prev_close": 1943.5,
+   "chg_pct": 9.77,
+   "turnover_cr": 216.0
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "PASHUPATI",
+   "close": 35.1,
+   "prev_close": 83.69,
+   "chg_pct": -58.06,
+   "turnover_cr": 37.1
+  },
+  {
+   "symbol": "V2RETAIL",
+   "close": 164.1,
+   "prev_close": 186.11,
+   "chg_pct": -11.83,
+   "turnover_cr": 725.2
+  },
+  {
+   "symbol": "KPEL",
+   "close": 186.5,
+   "prev_close": 204.69,
+   "chg_pct": -8.89,
+   "turnover_cr": 41.1
+  },
+  {
+   "symbol": "SOLEX",
+   "close": 604.45,
+   "prev_close": 655.45,
+   "chg_pct": -7.78,
+   "turnover_cr": 10.3
+  },
+  {
+   "symbol": "PROZONER",
+   "close": 59.31,
+   "prev_close": 63.76,
+   "chg_pct": -6.98,
+   "turnover_cr": 7.3
+  },
+  {
+   "symbol": "JSLL",
+   "close": 342.1,
+   "prev_close": 367.7,
+   "chg_pct": -6.96,
+   "turnover_cr": 56.7
+  },
+  {
+   "symbol": "INDNIPPON",
+   "close": 1174.2,
+   "prev_close": 1260.7,
+   "chg_pct": -6.86,
+   "turnover_cr": 15.9
+  },
+  {
+   "symbol": "PICCADIL",
+   "close": 552.3,
+   "prev_close": 592.5,
+   "chg_pct": -6.78,
+   "turnover_cr": 66.4
+  },
+  {
+   "symbol": "ASTRAZEN",
+   "close": 6031.5,
+   "prev_close": 6438.5,
+   "chg_pct": -6.32,
+   "turnover_cr": 20.4
+  },
+  {
+   "symbol": "MANINDS",
+   "close": 821.45,
+   "prev_close": 872.3,
+   "chg_pct": -5.83,
+   "turnover_cr": 100.7
+  },
+  {
+   "symbol": "TECHNOE",
+   "close": 958.75,
+   "prev_close": 1016.1,
+   "chg_pct": -5.64,
+   "turnover_cr": 78.8
+  },
+  {
+   "symbol": "LASERPOWER",
+   "close": 211.03,
+   "prev_close": 223.41,
+   "chg_pct": -5.54,
+   "turnover_cr": 10.7
+  },
+  {
+   "symbol": "MANORAMA",
+   "close": 1984.1,
+   "prev_close": 2100.1,
+   "chg_pct": -5.52,
+   "turnover_cr": 92.7
+  },
+  {
+   "symbol": "CEINSYS",
+   "close": 664.25,
+   "prev_close": 702.55,
+   "chg_pct": -5.45,
+   "turnover_cr": 5.0
+  },
+  {
+   "symbol": "GABRIEL",
+   "close": 1552.7,
+   "prev_close": 1641.2,
+   "chg_pct": -5.39,
+   "turnover_cr": 192.5
+  }
+ ],
+ "active": [
+  {
+   "symbol": "TDPOWERSYS",
+   "close": 637.55,
+   "prev_close": 625.9,
+   "chg_pct": 1.86,
+   "turnover_cr": 3408.4
+  },
+  {
+   "symbol": "POWERINDIA",
+   "close": 31595.0,
+   "prev_close": 28545.0,
+   "chg_pct": 10.68,
+   "turnover_cr": 2809.3
+  },
+  {
+   "symbol": "HDFCBANK",
+   "close": 804.0,
+   "prev_close": 812.3,
+   "chg_pct": -1.02,
+   "turnover_cr": 1879.1
+  },
+  {
+   "symbol": "RELIANCE",
+   "close": 1339.7,
+   "prev_close": 1339.7,
+   "chg_pct": 0.0,
+   "turnover_cr": 1840.7
+  },
+  {
+   "symbol": "AMBER",
+   "close": 6772.0,
+   "prev_close": 6209.0,
+   "chg_pct": 9.07,
+   "turnover_cr": 1816.5
+  },
+  {
+   "symbol": "ICICIBANK",
+   "close": 1583.6,
+   "prev_close": 1590.0,
+   "chg_pct": -0.4,
+   "turnover_cr": 1801.1
+  },
+  {
+   "symbol": "SBIN",
+   "close": 1080.0,
+   "prev_close": 1086.5,
+   "chg_pct": -0.6,
+   "turnover_cr": 1717.4
+  },
+  {
+   "symbol": "BLSPOLY",
+   "close": 271.23,
+   "prev_close": 234.75,
+   "chg_pct": 15.54,
+   "turnover_cr": 1648.2
+  },
+  {
+   "symbol": "KALYANKJIL",
+   "close": 697.0,
+   "prev_close": 710.9,
+   "chg_pct": -1.96,
+   "turnover_cr": 1453.5
+  },
+  {
+   "symbol": "APOLLO",
+   "close": 475.6,
+   "prev_close": 440.1,
+   "chg_pct": 8.07,
+   "turnover_cr": 1329.1
+  },
+  {
+   "symbol": "BAJFINANCE",
+   "close": 1117.0,
+   "prev_close": 1115.0,
+   "chg_pct": 0.18,
+   "turnover_cr": 1316.8
+  },
+  {
+   "symbol": "BHARTIARTL",
+   "close": 2106.0,
+   "prev_close": 2096.0,
+   "chg_pct": 0.48,
+   "turnover_cr": 1289.4
+  },
+  {
+   "symbol": "MCX",
+   "close": 3720.0,
+   "prev_close": 3624.7,
+   "chg_pct": 2.63,
+   "turnover_cr": 1206.8
+  },
+  {
+   "symbol": "BSE",
+   "close": 3937.7,
+   "prev_close": 3909.1,
+   "chg_pct": 0.73,
+   "turnover_cr": 1151.7
+  },
+  {
+   "symbol": "CUPID",
+   "close": 377.8,
+   "prev_close": 384.8,
+   "chg_pct": -1.82,
+   "turnover_cr": 1046.7
+  }
+ ],
+ "breadth": {
+  "advances": 939,
+  "declines": 1777,
+  "unchanged": 28
+ },
+ "history_days": 239,
+ "highs": [
+  {
+   "symbol": "KALYANKJIL",
+   "close": 697.0,
+   "chg_pct": -1.96,
+   "turnover_cr": 1453.5
+  },
+  {
+   "symbol": "APOLLO",
+   "close": 475.6,
+   "chg_pct": 8.07,
+   "turnover_cr": 1329.1
+  },
+  {
+   "symbol": "PNB",
+   "close": 142.81,
+   "chg_pct": 0.72,
+   "turnover_cr": 879.6
+  },
+  {
+   "symbol": "GROWW",
+   "close": 224.95,
+   "chg_pct": 1.48,
+   "turnover_cr": 864.3
+  },
+  {
+   "symbol": "PAYTM",
+   "close": 1939.9,
+   "chg_pct": 0.77,
+   "turnover_cr": 820.1
+  },
+  {
+   "symbol": "ATHERENERG",
+   "close": 1945.0,
+   "chg_pct": 1.14,
+   "turnover_cr": 429.8
+  },
+  {
+   "symbol": "DHANBANK",
+   "close": 40.24,
+   "chg_pct": 14.81,
+   "turnover_cr": 429.7
+  },
+  {
+   "symbol": "ALICON",
+   "close": 976.15,
+   "chg_pct": 17.32,
+   "turnover_cr": 317.8
+  },
+  {
+   "symbol": "NAVINFLUOR",
+   "close": 10002.0,
+   "chg_pct": 0.33,
+   "turnover_cr": 291.2
+  },
+  {
+   "symbol": "SAILIFE",
+   "close": 1928.8,
+   "chg_pct": 1.24,
+   "turnover_cr": 290.3
+  },
+  {
+   "symbol": "PARASHLTH",
+   "close": 936.3,
+   "chg_pct": 6.13,
+   "turnover_cr": 289.1
+  },
+  {
+   "symbol": "STYLEBAAZA",
+   "close": 468.75,
+   "chg_pct": 5.69,
+   "turnover_cr": 271.5
+  },
+  {
+   "symbol": "ACUTAAS",
+   "close": 4039.1,
+   "chg_pct": 1.08,
+   "turnover_cr": 245.4
+  },
+  {
+   "symbol": "BONFIG",
+   "close": 794.5,
+   "chg_pct": 9.99,
+   "turnover_cr": 233.3
+  },
+  {
+   "symbol": "LIQUIDCASE",
+   "close": 116.91,
+   "chg_pct": 0.04,
+   "turnover_cr": 227.1
+  }
+ ],
+ "lows": [
+  {
+   "symbol": "POCL",
+   "close": 378.5,
+   "chg_pct": -5.17,
+   "turnover_cr": 106.2
+  },
+  {
+   "symbol": "APTUS",
+   "close": 174.98,
+   "chg_pct": -0.66,
+   "turnover_cr": 89.3
+  },
+  {
+   "symbol": "SBIGOLD",
+   "close": 115.36,
+   "chg_pct": -0.88,
+   "turnover_cr": 44.4
+  },
+  {
+   "symbol": "PASHUPATI",
+   "close": 35.1,
+   "chg_pct": -58.06,
+   "turnover_cr": 37.1
+  },
+  {
+   "symbol": "VIPIND",
+   "close": 238.55,
+   "chg_pct": -3.32,
+   "turnover_cr": 34.5
+  },
+  {
+   "symbol": "ASHAPURMIN",
+   "close": 415.3,
+   "chg_pct": 1.1,
+   "turnover_cr": 26.5
+  },
+  {
+   "symbol": "GOLDAXIS",
+   "close": 112.5,
+   "chg_pct": -0.72,
+   "turnover_cr": 24.2
+  },
+  {
+   "symbol": "GSPLTRANS",
+   "close": 99.92,
+   "chg_pct": -2.92,
+   "turnover_cr": 17.0
+  },
+  {
+   "symbol": "CONCORDBIO",
+   "close": 594.0,
+   "chg_pct": -1.3,
+   "turnover_cr": 9.3
+  },
+  {
+   "symbol": "GOLDADD",
+   "close": 13.14,
+   "chg_pct": -0.83,
+   "turnover_cr": 8.6
+  },
+  {
+   "symbol": "EVONILE",
+   "close": 1520.4,
+   "chg_pct": -4.35,
+   "turnover_cr": 7.3
+  },
+  {
+   "symbol": "BASF",
+   "close": 2934.7,
+   "chg_pct": 0.41,
+   "turnover_cr": 7.1
+  },
+  {
+   "symbol": "UGROCAP",
+   "close": 65.72,
+   "chg_pct": -3.76,
+   "turnover_cr": 6.6
+  },
+  {
+   "symbol": "ELITECON",
+   "close": 5.25,
+   "chg_pct": -3.67,
+   "turnover_cr": 5.4
+  }
+ ],
+ "filings": [
+  {
+   "symbol": "KPIGREEN",
+   "company": "KPI Green Energy Limited",
+   "category": "Monitoring Agency Report",
+   "subject": "KPI Green Energy Limited has submitted to the exchange Monitoring Agency report for the quarter and half year ended September 30, 2026",
+   "announced_at": "2026-11-13T22:01:44",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_13112026215955_KPI_MA_Report_30092026_To_Exchange_Signed.pdf"
+  },
+  {
+   "symbol": "DJML",
+   "company": "DJ Mediaprint & Logistics Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Dj Mediaprint & Logistics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T22:01:30",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DJML_13112026220054_BMOUTCOME131126_FINALU.pdf"
+  },
+  {
+   "symbol": "KOTHARIPET",
+   "company": "Kothari Petrochemicals Limited",
+   "category": "Amalgamation/Merger",
+   "subject": "Kothari Petrochemicals Limited has informed the Exchange about Proceedings of the Hon'ble National Company Law Tribunal (\"NCLT\") Convened Meeting of the Unsecured Creditors of Kothari Petrochemicals Limited held on November 13, 2026",
+   "announced_at": "2026-11-13T21:59:30",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KOTHARIPET_13112026215747_ProceedingsofUnsecuredCreditorsMeeting.pdf"
+  },
+  {
+   "symbol": "ROTO",
+   "company": "Roto Pumps Limited",
+   "category": "Copy of Newspaper Publication",
+   "subject": "Roto Pumps Limited has informed the Exchange about Copy of Newspaper Publication",
+   "announced_at": "2026-11-13T21:58:08",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ROTO_13112026215614_SE_Intimation_Newspaper_results.pdf"
+  },
+  {
+   "symbol": "KOTHARIPET",
+   "company": "Kothari Petrochemicals Limited",
+   "category": "Shareholders meeting",
+   "subject": "Kothari Petrochemicals Limited has informed the Exchange regarding Proceedings of the Hon'ble National Company Law Tribunal (\"NCLT\") Convened Meeting of the Equity Shareholders of Kothari Petrochemicals Limited held on November 13, 2026",
+   "announced_at": "2026-11-13T21:55:52",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KOTHARIPET_13112026215407_ProceedingsofEquityshareholdersMeeting.pdf"
+  },
+  {
+   "symbol": "SAILIFE",
+   "company": "Sai Life Sciences Limited",
+   "category": "Credit Rating- Revision",
+   "subject": "Sai Life Sciences Limited has informed the Exchange about Credit Rating- Revision",
+   "announced_at": "2026-11-13T21:52:32",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SAILIFE_13112026215150_Stx_Credit_Rating_13112026_Signed.pdf"
+  },
+  {
+   "symbol": "GSPCROP",
+   "company": "GSP Crop Science Limited",
+   "category": "Monitoring Agency Report",
+   "subject": "Submission of Monitoring Agency Report issued by Crisil Ratings Limited for the utilization of Proceeds raised through issuance of Equity Shares by way of the Initial Public Offer (IPO) of the GSP Crop Science Limited ( the Company ) for the quarter ended September 30, 2026",
+   "announced_at": "2026-11-13T21:52:20",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GSP123_13112026215210_MAReportfinal.pdf"
+  },
+  {
+   "symbol": "CMSINFO",
+   "company": "CMS Info Systems Limited",
+   "category": "Resignation of Director/KMP/SMP",
+   "subject": "CMS Info Systems Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+   "announced_at": "2026-11-13T21:50:22",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CMSINFO_ROID_104835_KMP_Doc.zip"
+  },
+  {
+   "symbol": "IMAGICAA",
+   "company": "Imagicaaworld Entertainment Limited",
+   "category": "Press Release",
+   "subject": "Imagicaaworld Entertainment Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Unaudited Financial Results for the quarter and half year ended September 30, 2026.\".",
+   "announced_at": "2026-11-13T21:50:09",
+   "attachment": "https://nsearchives.nseindia.com/corporate/IMAGICAA_13112026214953_Press_Release.pdf"
+  },
+  {
+   "symbol": "RPOWER",
+   "company": "Reliance Power Limited",
+   "category": "Updates",
+   "subject": "Reliance Power Limited has informed the Exchange regarding 'Disclosure under Regulation 31A of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+   "announced_at": "2026-11-13T21:47:09",
+   "attachment": "https://nsearchives.nseindia.com/corporate/RPOWER_13112026214650_RPower_SE_Disclosure_RIPL_Application_Signed.pdf"
+  },
+  {
+   "symbol": "KOTARISUG",
+   "company": "Kothari Sugars And Chemicals Limited",
+   "category": "Amalgamation/Merger",
+   "subject": "Kothari Sugars And Chemicals Limited has informed the Exchange about Proceedings of the Hon'ble National Company Law Tribunal (\"NCLT\") Convened Meeting of the Unsecured Creditors of Kothari Sugars and Chemicals Limited held on November 13, 2026",
+   "announced_at": "2026-11-13T21:45:32",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KOTARISUG_13112026214400_ProceedingsofUnsecuredcreditorsmeeting.pdf"
+  },
+  {
+   "symbol": "DCAL",
+   "company": "Dishman Carbogen Amcis Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Dishman Carbogen Amcis Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:42:52",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DCAL_13112026213948_OutcomeofBM13112026-f.pdf"
+  },
+  {
+   "symbol": "MANIPALHOS",
+   "company": "Manipal Health Enterprises Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Manipal Health Enterprises Limited has informed the Exchange about",
+   "announced_at": "2026-11-13T21:41:59",
+   "attachment": "https://nsearchives.nseindia.com/corporate/9632000477_13112026214133_Audio_-InvestorMeet_for_Q2FY27-_signed.pdf"
+  },
+  {
+   "symbol": "TMPV",
+   "company": "Tata Motors Passenger Vehicles Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Tata Motors Passenger Vehicles Limited has informed the Exchange about Link of Recording",
+   "announced_at": "2026-11-13T21:41:13",
+   "attachment": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_13112026214056_Audioandtranscriptletter.pdf"
+  },
+  {
+   "symbol": "ARDEE",
+   "company": "Ardee Industries Limited",
+   "category": "Monitoring Agency Report",
+   "subject": "Monitoring Agency Report as on 30.09.2026",
+   "announced_at": "2026-11-13T21:38:06",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ARDEE321_13112026213657_sema13112026.pdf"
+  },
+  {
+   "symbol": "KOTARISUG",
+   "company": "Kothari Sugars And Chemicals Limited",
+   "category": "Shareholders meeting",
+   "subject": "Kothari Sugars And Chemicals Limited has informed the Exchange regarding Proceedings of the Hon'ble National Company Law Tribunal (\"NCLT\") Convened Meeting of the Equity Shareholders of Kothari Sugars and Chemicals Limited held on November 13, 2026",
+   "announced_at": "2026-11-13T21:34:29",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KOTARISUG_13112026213322_ProceedingsofEquityShareholdersMeeting.pdf"
+  },
+  {
+   "symbol": "GPIL",
+   "company": "Godawari Power And Ispat limited",
+   "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+   "subject": "Godawari Power And Ispat limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+   "announced_at": "2026-11-13T21:34:00",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_13112026213348_GPILNSEBSE32LODR13112026.pdf"
+  },
+  {
+   "symbol": "SCODATUBES",
+   "company": "Scoda Tubes Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Scoda Tubes Limited has informed the Exchange about Link of Recording",
+   "announced_at": "2026-11-13T21:34:00",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SCODA_13112026213334_audio_recordings_-_13-11-2026.pdf"
+  },
+  {
+   "symbol": "SWELECTES",
+   "company": "Swelect Energy Systems Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Swelect Energy Systems Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:33:46",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SWELECTES_13112026212849_SESL_CL_UFR_30092026_upload.pdf"
+  },
+  {
+   "symbol": "SWELECTES",
+   "company": "Swelect Energy Systems Limited",
+   "category": "Options to purchase securities",
+   "subject": "Approval of SWELECT ESOP Scheme 2026",
+   "announced_at": "2026-11-13T21:33:46",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SWELECTES_13112026212927_SESL_CL_UFR_30092026_upload.pdf"
+  },
+  {
+   "symbol": "SWELECTES",
+   "company": "Swelect Energy Systems Limited",
+   "category": "General Updates",
+   "subject": "The Board of Directors have considered and approved the Postal Ballot Notice (through remote e-voting) to seek the approval of the members of the Company for undertaking related party transactions with the subsidiary companies for solar power projects and SWELECT ESOP Scheme 2026",
+   "announced_at": "2026-11-13T21:33:46",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SWELECTES_13112026212945_SESL_CL_UFR_30092026_upload.pdf"
+  },
+  {
+   "symbol": "GPIL",
+   "company": "Godawari Power And Ispat limited",
+   "category": "Acquisition",
+   "subject": "Godawari Power And Ispat limited has informed the Exchange regarding allotment of 5,00,00,000 Preference shares aggregating Rs. 50.00 Cr by Godawari New Energy Private Limited, A wholly owned Subsidiary of Godawari Power and Ispat Limited on 12.11.2026",
+   "announced_at": "2026-11-13T21:32:27",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_13112026213113_GPILNSEBSEGNEPL50CR13112026.pdf"
+  },
+  {
+   "symbol": "TVSSCS",
+   "company": "TVS Supply Chain Solutions Limited",
+   "category": "Investor Presentation",
+   "subject": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T21:32:08",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_13112026212938_Earnings_call_presentation_disclosure_sd.pdf"
+  },
+  {
+   "symbol": "FIVESTAR",
+   "company": "Five-Star Business Finance Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Intimation of Schedule of Investor/Analyst meetings under the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015",
+   "announced_at": "2026-11-13T21:31:01",
+   "attachment": "https://nsearchives.nseindia.com/corporate/FIVESTAR_13112026213008_IntimationonScheduleofInvestorcallNovember162026.pdf"
+  },
+  {
+   "symbol": "M&M",
+   "company": "Mahindra & Mahindra Limited",
+   "category": "Updates",
+   "subject": "Mahindra & Mahindra Limited has informed the Exchange regarding 'Transfer Of Equity Shares by Mahindra & Mahindra Employees  Stock Option Trust to the Stock Option Grantees'.",
+   "announced_at": "2026-11-13T21:28:55",
+   "attachment": "https://nsearchives.nseindia.com/corporate/Deepak_13112026212813_Employeeslist13112026.pdf"
+  },
+  {
+   "symbol": "GRASIM",
+   "company": "Grasim Industries Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Audio Recording - Earnings Call",
+   "announced_at": "2026-11-13T21:25:40",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GRASIM2_13112026212524_SE_Intimation_Audio_Signed.pdf"
+  },
+  {
+   "symbol": "VLSFINANCE",
+   "company": "VLS Finance Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "VLS Finance Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:24:06",
+   "attachment": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_13112026212055_OutcomeofBoardMeeting13112026.pdf"
+  },
+  {
+   "symbol": "ACE",
+   "company": "Action Construction Equipment Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Action Construction Equipment Limited has informed the Exchange about Link of Recording",
+   "announced_at": "2026-11-13T21:23:18",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ACE_13112026212308_AUDIO_RECORDING.pdf"
+  },
+  {
+   "symbol": "GICHSGFIN",
+   "company": "GIC Housing Finance Limited",
+   "category": "Updates",
+   "subject": "GIC Housing Finance Limited has informed the Exchange regarding 'Newspaper Publication of Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026.'.",
+   "announced_at": "2026-11-13T21:22:28",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GICHSGFIN_13112026212203_NSE.pdf"
+  },
+  {
+   "symbol": "CONFIPET",
+   "company": "Confidence Petroleum India Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Confidence Petroleum India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:22:09",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CONFIPET_13112026212050_CPIL-RESULT-SEPT-2026-SIGNED.pdf"
+  },
+  {
+   "symbol": "BELRISE",
+   "company": "Belrise Industries Limited",
+   "category": "General Updates",
+   "subject": "Belrise Industries Limited has informed the Exchange about General Updates on Key Performance Indicators of the Company for the quarter ended on September 30, 2026",
+   "announced_at": "2026-11-13T21:18:29",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BELRISE_13112026211820_BELRISE_Intimation_of_KPI_Sep_2026.pdf"
+  },
+  {
+   "symbol": "CMSINFO",
+   "company": "CMS Info Systems Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Please find enclosed the Outcome of Board Meeting held on November 13, 2026, noting the resignation of Company Secretary and Compliance Officer.",
+   "announced_at": "2026-11-13T21:16:37",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CMSINFO_13112026211617_OutcomeofBoardMeetingfinal.pdf"
+  },
+  {
+   "symbol": "PAGEIND",
+   "company": "Page Industries Limited",
+   "category": "General Updates",
+   "subject": "Page Industries Limited has informed the Exchange about Clarification on Media Reports regarding FEMA Non-Compliance in Q2-FY27 Results",
+   "announced_at": "2026-11-13T21:16:28",
+   "attachment": "https://nsearchives.nseindia.com/corporate/PAGEIND_13112026211531_CLARIFICATIONQ2FY27RESULTS.pdf"
+  },
+  {
+   "symbol": "RELINFRA",
+   "company": "Reliance Infrastructure Limited",
+   "category": "Updates",
+   "subject": "Reliance Infrastructure Limited has informed the Exchange regarding 'Disclosure under Regulation 31A of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+   "announced_at": "2026-11-13T21:15:34",
+   "attachment": "https://nsearchives.nseindia.com/corporate/RELINFRA_13112026211523_RInfraSEDisclosureRIPLApplication13112026SD.pdf"
+  },
+  {
+   "symbol": "SSRETAIL",
+   "company": "SS Retail Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "SS Retail Limited has submitted to the Exchange, the unaudited Standalone and Consolidated financial results and Limited Review Report for the quarter and half year ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:15:34",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SSRETAIL_13112026211231_BoardMeetingOutcome13112026.pdf"
+  },
+  {
+   "symbol": "BALLARPUR",
+   "company": "Ballarpur Industries Limited",
+   "category": "Resignation of Director/KMP/SMP",
+   "subject": "Ballarpur Industries Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+   "announced_at": "2026-11-13T21:11:19",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BALLARPUR_ROID_104831_KMP_Doc.zip"
+  },
+  {
+   "symbol": "NIRAJ",
+   "company": "Niraj Cement Structurals Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Niraj Cement Structurals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T21:10:38",
+   "attachment": "https://nsearchives.nseindia.com/corporate/NIRAJ_13112026210857_BM_Outcome_Nov_13_2026.pdf"
+  },
+  {
+   "symbol": "DIGISPICE",
+   "company": "DiGiSPICE Technologies Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "The Audio-video recording of Investors call held on 13th November, 2026 has been made available on the website of the Company. The same can be accessed by link provided in the attached pdf.",
+   "announced_at": "2026-11-13T21:09:05",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DIGISPICE_13112026205813_STX_IntimationofVCLink.pdf"
+  },
+  {
+   "symbol": "GSPCROP",
+   "company": "GSP Crop Science Limited",
+   "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+   "subject": "GSP Crop Science Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+   "announced_at": "2026-11-13T21:06:11",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GSP123_13112026210559_BMOutcomesigned.pdf"
+  },
+  {
+   "symbol": "CMSINFO",
+   "company": "CMS Info Systems Limited",
+   "category": "Press Release",
+   "subject": "CMS Info Systems Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"The Company hereby informs the exchange regarding press release dated November 13, 2026, on Un-Audited (Standalone and Consolidated) for the quarter and half year ended September 30, 2026, titled \"CMS Info Systems reports fourth consecutive quarter of record services revenue at Rs. 644 Cr. Q2FY27, up 16.2% YoY\"\".",
+   "announced_at": "2026-11-13T21:05:32",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CMSINFO_13112026210521_MediaRelease.pdf"
+  },
+  {
+   "symbol": "JPOLYINVST",
+   "company": "Jindal Poly Investment and Finance Company Limited",
+   "category": "Retirement",
+   "subject": "Jindal Poly Investment and Finance Company Limited has informed the Exchange about Retirement",
+   "announced_at": "2026-11-13T21:04:49",
+   "attachment": "https://nsearchives.nseindia.com/corporate/JPOLYINVST_13112026210409_Intimation_of_Appointment_.pdf"
+  },
+  {
+   "symbol": "HINDOILEXP",
+   "company": "Hindustan Oil Exploration Company Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Hindustan Oil Exploration Company Limited has informed the Exchange about Transcript",
+   "announced_at": "2026-11-13T21:03:39",
+   "attachment": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_13112026210152_EC_Transcript.pdf"
+  },
+  {
+   "symbol": "GSPCROP",
+   "company": "GSP Crop Science Limited",
+   "category": "Address Change",
+   "subject": "GSP Crop Science Limited has informed the Exchange regarding change in Corporate Office of the company.",
+   "announced_at": "2026-11-13T21:03:20",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GSP123_13112026210314_BMOutcomesigned.pdf"
+  },
+  {
+   "symbol": "JPOLYINVST",
+   "company": "Jindal Poly Investment and Finance Company Limited",
+   "category": "Appointment",
+   "subject": "Jindal Poly Investment and Finance Company Limited has informed the Exchange regarding Appointment of Mr Suresh Kumar Shukla as Chief Financial Officer of the company w.e.f. November 12, 2026.",
+   "announced_at": "2026-11-13T21:02:45",
+   "attachment": "https://nsearchives.nseindia.com/corporate/JPOLYINVST_13112026210230_Intimation_of_Appointment_.pdf"
+  },
+  {
+   "symbol": "FIRSTCRY",
+   "company": "Brainbees Solutions Limited",
+   "category": "Acquisition",
+   "subject": "Brainbees Solutions Limited has informed the Exchange about acquisition of additional stake in Dynamic IT Solution Private Limited by Globalbees Brands Private Limited, material subsidiary of the Company",
+   "announced_at": "2026-11-13T21:02:17",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13112026210201_Disclosureunderregulation30AcquisitionDynamicIT.pdf"
+  },
+  {
+   "symbol": "ANNU",
+   "company": "Annu Projects Limited",
+   "category": "Investor Presentation",
+   "subject": "Annu Projects Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T21:02:09",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ANNU2025_13112026210200_revisedAPLInvestorPPTNovember132026.pdf"
+  },
+  {
+   "symbol": "GSPCROP",
+   "company": "GSP Crop Science Limited",
+   "category": "Retirement",
+   "subject": "GSP Crop Science Limited has informed the Exchange about Retirement of Mr. Rajesh Valiya Naduvath-Head of International Business and Strategy of the Company from the services of the Company with effect from November 13, 2026 and consequently ceased to be Senior Management Personnel (SMP) of the Company.",
+   "announced_at": "2026-11-13T21:01:56",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GSP123_13112026210149_BMOutcomesigned.pdf"
+  },
+  {
+   "symbol": "JPOLYINVST",
+   "company": "Jindal Poly Investment and Finance Company Limited",
+   "category": "Appointment",
+   "subject": "Jindal Poly Investment and Finance Company Limited has informed the Exchange regarding Appointment of Mr Rathi Binod Pal as Non- Executive Director of the company w.e.f. November 12, 2026.",
+   "announced_at": "2026-11-13T21:00:30",
+   "attachment": "https://nsearchives.nseindia.com/corporate/JPOLYINVST_13112026210008_Intimation_of_Appointment_.pdf"
+  },
+  {
+   "symbol": "SRIT",
+   "company": "SRIT India Limited",
+   "category": "Updates",
+   "subject": "SRIT India Limited has informed the Exchange regarding 'the participation of its MD & CEO and Director in a podcast hosted by Investique Media & Consultants Private Limited, featuring Mr. Nikunj Dalmia'.",
+   "announced_at": "2026-11-13T21:00:06",
+   "attachment": "https://nsearchives.nseindia.com/corporate/SRIT_13112026205850_Intimation_on_Podcast_Signed.pdf"
+  },
+  {
+   "symbol": "FCL",
+   "company": "Fineotex Chemical Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Fineotex Chemical Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:59:57",
+   "attachment": "https://nsearchives.nseindia.com/corporate/FCL_13112026205855_OutcomeofBoardMeeting13112026Final.pdf"
+  },
+  {
+   "symbol": "CMSINFO",
+   "company": "CMS Info Systems Limited",
+   "category": "Investor Presentation",
+   "subject": "CMS Info Systems Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T20:59:28",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CMSINFO_13112026205917_InvestorCallPresentation.pdf"
+  },
+  {
+   "symbol": "GSPCROP",
+   "company": "GSP Crop Science Limited",
+   "category": "Appointment",
+   "subject": "GSP Crop Science Limited has informed the Exchange regarding Appointment of  Mr. Shail Jayesh Shah as Chief Financial Officer of the company w.e.f. November 13, 2026, and re-designated as Executive Director-Finance and CFO.",
+   "announced_at": "2026-11-13T20:59:20",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GSP123_13112026205911_BMOutcomesigned.pdf"
+  },
+  {
+   "symbol": "DEEPAKFERT",
+   "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+   "category": "Press Release",
+   "subject": "Deepak Fertilizers And Petrochemicals Corporation Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Press Release on Unaudited Financial Results for the quarter and half year ended 30th September 2026\".",
+   "announced_at": "2026-11-13T20:59:10",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT1_13112026205832_Results_Signed_1.pdf"
+  },
+  {
+   "symbol": "JPOLYINVST",
+   "company": "Jindal Poly Investment and Finance Company Limited",
+   "category": "Appointment",
+   "subject": "Jindal Poly Investment and Finance Company Limited has informed the Exchange regarding Appointment of Mr Devendra Singh Rawat as Non- Executive Independent Director of the company w.e.f. November 12, 2026.",
+   "announced_at": "2026-11-13T20:58:18",
+   "attachment": "https://nsearchives.nseindia.com/corporate/JPOLYINVST_13112026205803_Intimation_of_Appointment_.pdf"
+  },
+  {
+   "symbol": "YESBANK",
+   "company": "Yes Bank Limited",
+   "category": "General Updates",
+   "subject": "Yes Bank Limited has informed the Exchange about Disclosure - Filing of a review petition before the Hon'ble Supreme Court of India in relation to Additional Tier-1 Bonds",
+   "announced_at": "2026-11-13T20:57:33",
+   "attachment": "https://nsearchives.nseindia.com/corporate/YESBANK_13112026205543_YBL_StockExchangeDisclosure_Nov132026_Signed.pdf"
+  },
+  {
+   "symbol": "INNOVACAP",
+   "company": "Innova Captab Limited",
+   "category": "Investor Presentation",
+   "subject": "Innova Captab Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T20:57:22",
+   "attachment": "https://nsearchives.nseindia.com/corporate/INNOVACAPTAB_13112026205656_Investor_Presentation_Reg_30.pdf"
+  },
+  {
+   "symbol": "ARVINDFASN",
+   "company": "Arvind Fashions Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Arvind Fashions Limited has informed the Exchange about Schedule of meet.",
+   "announced_at": "2026-11-13T20:56:54",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ARVINDFASN_13112026205537_IntimationInvestorConference.pdf"
+  },
+  {
+   "symbol": "CMSINFO",
+   "company": "CMS Info Systems Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "CMS Info Systems Limited has submitted to the Exchange bout outcome of Board meeting held on 13th November, 2026.",
+   "announced_at": "2026-11-13T20:56:19",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CMSINFO_13112026205225_OutcomeofBoardMeetingfinal.pdf"
+  },
+  {
+   "symbol": "ALMONDZ",
+   "company": "Almondz Global Securities Limited",
+   "category": "General Updates",
+   "subject": "Press Release   Premier Green Innovations Private Limited, Associate Company of Almondz Global Securities Limited, Secures Ethanol Allocation from Oil Marketing Companies for ESY 2026 27",
+   "announced_at": "2026-11-13T20:56:08",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ALMONDZ_13112026205557_intimationtostockexchangense.pdf"
+  },
+  {
+   "symbol": "DEEPAKFERT",
+   "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+   "category": "Investor Presentation",
+   "subject": "Deepak Fertilizers And Petrochemicals Corporation Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T20:55:14",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT1_13112026204919_Results_Signed_1.pdf"
+  },
+  {
+   "symbol": "ANNU",
+   "company": "Annu Projects Limited",
+   "category": "Press Release",
+   "subject": "Annu Projects Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Press release on Un-audited financial results for the quarter and half-year endedSeptember 30, 2026\".",
+   "announced_at": "2026-11-13T20:52:40",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ANNU2025_13112026205220_AnnouncemnetRevisedPressRelease.pdf"
+  },
+  {
+   "symbol": "SENCO",
+   "company": "Senco Gold Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Senco Gold Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:52:15",
+   "attachment": "https://nsearchives.nseindia.com/corporate/Sencogold_13112026204945_SE_Intimation_Outcome_of_BM_dated_13th_November_2026.pdf"
+  },
+  {
+   "symbol": "INA",
+   "company": "Insolation Energy Limited",
+   "category": "Press Release",
+   "subject": "Insolation Energy Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Press Release on Financial Results\".",
+   "announced_at": "2026-11-13T20:50:51",
+   "attachment": "https://nsearchives.nseindia.com/corporate/INA_13112026204927_BSE_NSE_Press_Release_13_11_2026_sd.pdf"
+  },
+  {
+   "symbol": "GENESYS",
+   "company": "Genesys International Corporation Limited",
+   "category": "Monitoring Agency Report",
+   "subject": "Pursuant to the Regulation 32(6) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Regulation 173A of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, enclosed herewith is the Monitoring Agency Report for the quarter ended September 30, 2026 issued by CARE Ratings Limited, Monitoring Agency for the utilisation of the proceeds raised through Qualified Institutions Placement and Rights Issue.",
+   "announced_at": "2026-11-13T20:48:29",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GENESYS_13112026204819_Genesys_MA_Upload.pdf"
+  },
+  {
+   "symbol": "ZETWERK",
+   "company": "Zetwerk Manufacturing Businesses Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Audio recording of Earnings Conference Call held on November 13, 2026, on the unaudited financial results for the quarter and half year ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:47:06",
+   "attachment": "https://nsearchives.nseindia.com/corporate/ZETWERK_13112026204600_BMEarningcall.pdf"
+  },
+  {
+   "symbol": "BLUECHIP",
+   "company": "Blue Chip India Limited",
+   "category": "Integrated Filing- Financial",
+   "subject": "Unaudited Financial Result for Quarter ended 30/09/2026",
+   "announced_at": "2026-11-13T20:46:59",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BLUECHIP_13112026204649_BM_OUTCOME_FINAL__-_-SS.pdf"
+  },
+  {
+   "symbol": "S&SPOWER",
+   "company": "S&S Power Switchgears Limited",
+   "category": "Appointment",
+   "subject": "S&S Power Switchgears Limited has informed the Exchange regarding Appointment of Ms Durv and Associates LLP as Other of the company w.e.f. November 13, 2026.",
+   "announced_at": "2026-11-13T20:46:52",
+   "attachment": "https://nsearchives.nseindia.com/corporate/S_SPOWER_13112026204610_BM_Outcome_13112026_SD.pdf"
+  },
+  {
+   "symbol": "KRIDHANINF",
+   "company": "Kridhan Infra Limited",
+   "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+   "subject": "Kridhan Infra Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+   "announced_at": "2026-11-13T20:46:44",
+   "attachment": "https://nsearchives.nseindia.com/corporate/KRIDHANINF_13112026204616_Use_of_Proceeds_-Kridhan.pdf"
+  },
+  {
+   "symbol": "RELINFRA",
+   "company": "Reliance Infrastructure Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Reliance Infrastructure Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:46:11",
+   "attachment": "https://nsearchives.nseindia.com/corporate/RELINFRA_13112026204354_RinfraoutcomeofBM13112026SD.pdf"
+  },
+  {
+   "symbol": "DEEPAKFERT",
+   "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Deepak Fertilizers And Petrochemicals Corporation Limited has submitted to the Exchange, the financial results for the quarter and half year  ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:46:10",
+   "attachment": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT1_13112026203559_Results_Signed_1.pdf"
+  },
+  {
+   "symbol": "GENESYS",
+   "company": "Genesys International Corporation Limited",
+   "category": "General Updates",
+   "subject": "Genesys International Corporation Limited has informed the Exchange about General Updates Grant of 3,65,000 (Three Lakhs Sixty Five Thousand) Employee Stock Options to the eligible employees of the Company under Genesys Employee Stock Option Scheme, 2022 ( Scheme ), including 4,640 (Four Thousand Six Forty) Employee Stock Options being re-granted out of the options previously lapsed under the Scheme.",
+   "announced_at": "2026-11-13T20:44:41",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GENESYS_13112026204424_Outcome_upload.pdf"
+  },
+  {
+   "symbol": "STEELCAS",
+   "company": "Steelcast Limited",
+   "category": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "subject": "Steelcast Limited has informed the Exchange about Link of Recording",
+   "announced_at": "2026-11-13T20:43:44",
+   "attachment": "https://nsearchives.nseindia.com/corporate/STEELCAS_13112026204324_CoveringletterforAudiorecordingoftheEarningsConferencecall.pdf"
+  },
+  {
+   "symbol": "S&SPOWER",
+   "company": "S&S Power Switchgears Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "S&S Power Switchgears Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+   "announced_at": "2026-11-13T20:42:53",
+   "attachment": "https://nsearchives.nseindia.com/corporate/S_SPOWER_13112026204109_BM_Outcome_13112026_SD.pdf"
+  },
+  {
+   "symbol": "BLUECHIP",
+   "company": "Blue Chip India Limited",
+   "category": "General Updates",
+   "subject": "Blue Chip India Limited has informed the Exchange about General Updates - Financial Result",
+   "announced_at": "2026-11-13T20:42:31",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BLUECHIP_13112026204205_BM_OUTCOME_FINAL__-_-SS.pdf"
+  },
+  {
+   "symbol": "TVSSCS",
+   "company": "TVS Supply Chain Solutions Limited",
+   "category": "Change in Auditors",
+   "subject": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Change in Auditors of the company.",
+   "announced_at": "2026-11-13T20:42:22",
+   "attachment": "https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_13112026203620_TVSSCS_BM_Outcome_of_BM.pdf"
+  },
+  {
+   "symbol": "BELRISE",
+   "company": "Belrise Industries Limited",
+   "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+   "subject": "Belrise Industries Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+   "announced_at": "2026-11-13T20:42:02",
+   "attachment": "https://nsearchives.nseindia.com/corporate/BELRISE_13112026204149_BELRISE_Statement_of_Deviation_or_variation_September_2026.pdf"
+  },
+  {
+   "symbol": "EROSMEDIA",
+   "company": "Eros International Media Limited",
+   "category": "Outcome of Board Meeting",
+   "subject": "Eros International Media Limited has informed the Exchange regarding Outcome of Board Meeting held on November 13, 2026.",
+   "announced_at": "2026-11-13T20:40:51",
+   "attachment": "https://nsearchives.nseindia.com/corporate/EROSMEDIA_13112026204012_OutcomeofBM13112026_-_OCR.pdf"
+  },
+  {
+   "symbol": "JINDALPOLY",
+   "company": "Jindal Poly Films Limited",
+   "category": "General Updates",
+   "subject": "Jindal Poly Films Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015",
+   "announced_at": "2026-11-13T20:40:37",
+   "attachment": "https://nsearchives.nseindia.com/corporate/JINDALPOLY_13112026203832_JPFL_SE_Disc-_Standstill-signed.pdf"
+  },
+  {
+   "symbol": "GENESYS",
+   "company": "Genesys International Corporation Limited",
+   "category": "Press Release",
+   "subject": "Genesys International Corporation Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Press Release - Un-audited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.\".",
+   "announced_at": "2026-11-13T20:40:27",
+   "attachment": "https://nsearchives.nseindia.com/corporate/GENESYS_13112026204011_Press_Release_Upload.pdf"
+  },
+  {
+   "symbol": "APEX",
+   "company": "Apex Frozen Foods Limited",
+   "category": "Investor Presentation",
+   "subject": "Apex Frozen Foods Limited has informed the Exchange about Investor Presentation",
+   "announced_at": "2026-11-13T20:39:05",
+   "attachment": "https://nsearchives.nseindia.com/corporate/APEX_13112026203849_q2presentation.pdf"
+  }
+ ],
+ "deals_date": "2026-11-13",
+ "deals": [
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "SVF II MEERKAT (DE) LLC",
+   "side": "SELL",
+   "quantity": 76400000,
+   "price": 246.75,
+   "value_cr": 1885.17
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "MEESHO",
+   "client": "SVF II MEERKAT (DE) LLC",
+   "side": "SELL",
+   "quantity": 76400000,
+   "price": 246.75,
+   "value_cr": 1885.17
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "SOCIETE GENERALE",
+   "side": "BUY",
+   "quantity": 14778000,
+   "price": 246.75,
+   "value_cr": 364.65
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "FIDELITY RUTLAND SQUARE TRUST II STRATEGIC ADVISERS FID EMG MARKETS FUND",
+   "side": "BUY",
+   "quantity": 8475900,
+   "price": 246.75,
+   "value_cr": 209.14
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "AMBER",
+   "client": "GRAVITON RESEARCH CAPITAL LLP",
+   "side": "SELL",
+   "quantity": 298240,
+   "price": 6635.72,
+   "value_cr": 197.9
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "QE SECURITIES LLP",
+   "side": "BUY",
+   "quantity": 2981475,
+   "price": 663.1,
+   "value_cr": 197.7
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "QE SECURITIES LLP",
+   "side": "SELL",
+   "quantity": 2973851,
+   "price": 660.9,
+   "value_cr": 196.54
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "AMBER",
+   "client": "GRAVITON RESEARCH CAPITAL LLP",
+   "side": "BUY",
+   "quantity": 295139,
+   "price": 6620.16,
+   "value_cr": 195.39
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "FIDELITY INVESTMENT TRUST FIDELITY SERIES EMERGING MARKETS FUND",
+   "side": "BUY",
+   "quantity": 7610300,
+   "price": 246.75,
+   "value_cr": 187.78
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2178340,
+   "price": 664.54,
+   "value_cr": 144.76
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 2178340,
+   "price": 664.04,
+   "value_cr": 144.65
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "MORGAN STANLEY ASIA SINGAPORE PTE",
+   "side": "BUY",
+   "quantity": 5725000,
+   "price": 246.75,
+   "value_cr": 141.26
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "MOTILAL OSWAL MUTUAL FUND",
+   "side": "BUY",
+   "quantity": 5250000,
+   "price": 246.75,
+   "value_cr": 129.54
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "HRTI PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 1760496,
+   "price": 663.54,
+   "value_cr": 116.82
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "TDPOWERSYS",
+   "client": "HRTI PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 1589792,
+   "price": 660.88,
+   "value_cr": 105.07
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+   "side": "BUY",
+   "quantity": 4200000,
+   "price": 246.75,
+   "value_cr": 103.64
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "PLUTUS WEALTH MANAGEMENT LLP",
+   "side": "SELL",
+   "quantity": 3883186,
+   "price": 265.23,
+   "value_cr": 102.99
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "PLUTUS WEALTH MANAGEMENT LLP",
+   "side": "BUY",
+   "quantity": 3883186,
+   "price": 265.12,
+   "value_cr": 102.95
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "FGTFEBP FIAM SELECT EMERGING MARKETS EQUITY COMMINGLED POOL",
+   "side": "BUY",
+   "quantity": 3847600,
+   "price": 246.75,
+   "value_cr": 94.94
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "BNP PARIBAS FINANCIAL MARKETS",
+   "side": "BUY",
+   "quantity": 3817000,
+   "price": 246.75,
+   "value_cr": 94.18
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "GOLDMAN SACHS BANK EUROPE SE",
+   "side": "BUY",
+   "quantity": 3626000,
+   "price": 246.75,
+   "value_cr": 89.47
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "GHISALLO MASTER FUND LP",
+   "side": "BUY",
+   "quantity": 3435000,
+   "price": 246.75,
+   "value_cr": 84.76
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "IIFLCAPS",
+   "client": "ALPHA ALTERNATIVES FINANCIAL SERVICES PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2369139,
+   "price": 354.74,
+   "value_cr": 84.04
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "IIFLCAPS",
+   "client": "ARVESTA FINANCIAL SERVICES PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2081589,
+   "price": 354.22,
+   "value_cr": 73.73
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2553662,
+   "price": 263.05,
+   "value_cr": 67.17
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 2553662,
+   "price": 262.93,
+   "value_cr": 67.14
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "IIFLCAPS",
+   "client": "NEO TREASURY PLUS FUND",
+   "side": "SELL",
+   "quantity": 1865000,
+   "price": 355.78,
+   "value_cr": 66.35
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2441818,
+   "price": 264.4,
+   "value_cr": 64.56
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 2441818,
+   "price": 264.06,
+   "value_cr": 64.48
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "FIDELITY RUTLAND SQUARE TRUST II: STRATEGIC ADVISERS EMERGING MARKETS FUND",
+   "side": "BUY",
+   "quantity": 2296700,
+   "price": 246.75,
+   "value_cr": 56.67
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "GOVERNMENT OF SINGAPORE",
+   "side": "BUY",
+   "quantity": 2177506,
+   "price": 246.75,
+   "value_cr": 53.73
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 1833792,
+   "price": 263.39,
+   "value_cr": 48.3
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 1829458,
+   "price": 263.26,
+   "value_cr": 48.16
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "QE SECURITIES LLP",
+   "side": "SELL",
+   "quantity": 1818564,
+   "price": 261.87,
+   "value_cr": 47.62
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "QE SECURITIES LLP",
+   "side": "BUY",
+   "quantity": 1763975,
+   "price": 262.86,
+   "value_cr": 46.37
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "V2RETAIL",
+   "client": "F3 ADVISORS PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 2173610,
+   "price": 176.01,
+   "value_cr": 38.26
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "V2RETAIL",
+   "client": "F3 ADVISORS PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 2157065,
+   "price": 175.94,
+   "value_cr": 37.95
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "HDFC MUTUAL FUND",
+   "side": "BUY",
+   "quantity": 1410000,
+   "price": 246.75,
+   "value_cr": 34.79
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "V2RETAIL",
+   "client": "QE SECURITIES LLP",
+   "side": "BUY",
+   "quantity": 1909220,
+   "price": 173.77,
+   "value_cr": 33.18
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "HRTI PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 1252333,
+   "price": 262.11,
+   "value_cr": 32.82
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "V2RETAIL",
+   "client": "QE SECURITIES LLP",
+   "side": "SELL",
+   "quantity": 1779009,
+   "price": 173.3,
+   "value_cr": 30.83
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "SSRETAIL",
+   "client": "QE SECURITIES LLP",
+   "side": "SELL",
+   "quantity": 407852,
+   "price": 731.86,
+   "value_cr": 29.85
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "SSRETAIL",
+   "client": "QE SECURITIES LLP",
+   "side": "BUY",
+   "quantity": 405200,
+   "price": 734.46,
+   "value_cr": 29.76
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BFUTILITIE",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "SELL",
+   "quantity": 514165,
+   "price": 504.88,
+   "value_cr": 25.96
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BFUTILITIE",
+   "client": "MICROCURVES TRADING PRIVATE LIMITED",
+   "side": "BUY",
+   "quantity": 514165,
+   "price": 504.26,
+   "value_cr": 25.93
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "MATHISYS QUANTCAP LLP",
+   "side": "BUY",
+   "quantity": 972049,
+   "price": 260.59,
+   "value_cr": 25.33
+  },
+  {
+   "deal_type": "bulk",
+   "symbol": "BLSPOLY",
+   "client": "MATHISYS QUANTCAP LLP",
+   "side": "SELL",
+   "quantity": 961950,
+   "price": 260.5,
+   "value_cr": 25.06
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "BAJAJ ALLIANZ LIFE INSURANCE COMPANY LIMITED",
+   "side": "BUY",
+   "quantity": 1015000,
+   "price": 246.75,
+   "value_cr": 25.05
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "NORGES BANK ON ACCOUNT OF THE GOVERNMENT PENSION FUND GLOBAL",
+   "side": "BUY",
+   "quantity": 1015000,
+   "price": 246.75,
+   "value_cr": 25.05
+  },
+  {
+   "deal_type": "block",
+   "symbol": "MEESHO",
+   "client": "EDELWEISS MUTUAL FUND",
+   "side": "BUY",
+   "quantity": 1015000,
+   "price": 246.75,
+   "value_cr": 25.05
+  }
+ ],
+ "stock_url": "https://nse-scan-private.pages.dev/stock.html",
+ "forming": [
+  {
+   "s": "INFY",
+   "n": "INFOSYS LIMITED",
+   "d": -0.84,
+   "t": 1743.4,
+   "p": [
+    [
+     "Double top",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "SBIN",
+   "n": "STATE BANK OF INDIA",
+   "d": -0.6,
+   "t": 1441.1,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "HAL",
+   "n": "HINDUSTAN AERONAUTICS LTD",
+   "d": -0.69,
+   "t": 443.3,
+   "p": [
+    [
+     "Descending triangle",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "LICI",
+   "n": "LIFE INSURA CORP OF INDIA",
+   "d": -1.16,
+   "t": 336.1,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "MRPL",
+   "n": "MRPL",
+   "d": 1.15,
+   "t": 325.0,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "CHENNPETRO",
+   "n": "CHENNAI PETROLEUM CORP LT",
+   "d": 0.2,
+   "t": 322.0,
+   "p": [
+    [
+     "Double top",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "ASHOKLEY",
+   "n": "ASHOK LEYLAND LTD",
+   "d": -2.73,
+   "t": 312.1,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "SAGILITY",
+   "n": "SAGILITY LIMITED",
+   "d": 0.37,
+   "t": 290.0,
+   "p": [
+    [
+     "Ascending triangle",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "SAIL",
+   "n": "STEEL AUTHORITY OF INDIA",
+   "d": -0.84,
+   "t": 259.9,
+   "p": [
+    [
+     "Symmetrical triangle",
+     "neutral"
+    ]
+   ]
+  },
+  {
+   "s": "PFC",
+   "n": "POWER FIN CORP LTD.",
+   "d": -1.4,
+   "t": 259.3,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "VBL",
+   "n": "VARUN BEVERAGES LIMITED",
+   "d": -0.51,
+   "t": 231.8,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "CGCL",
+   "n": "CAPRI GLOBAL CAPITAL LTD",
+   "d": 0.26,
+   "t": 218.6,
+   "p": [
+    [
+     "Ascending triangle",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "KAYNES",
+   "n": "KAYNES TECHNOLOGY IND LTD",
+   "d": -1.55,
+   "t": 211.1,
+   "p": [
+    [
+     "Descending triangle",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "LTM",
+   "n": "LTM LIMITED",
+   "d": -1.11,
+   "t": 197.6,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "BAJAJFINSV",
+   "n": "BAJAJ FINSERV LTD.",
+   "d": -1.17,
+   "t": 192.9,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "BPCL",
+   "n": "BHARAT PETROLEUM CORP  LT",
+   "d": -3.05,
+   "t": 186.3,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "MOLBIO",
+   "n": "MOLBIO DIAGNOSTICS LTD",
+   "d": 7.11,
+   "t": 180.7,
+   "p": [
+    [
+     "Double top",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "JINDALSTEL",
+   "n": "JINDAL STEEL LIMITED",
+   "d": -0.46,
+   "t": 131.5,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "WOCKPHARMA",
+   "n": "WOCKHARDT LIMITED",
+   "d": -1.3,
+   "t": 119.8,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "PFOCUS",
+   "n": "PRIME FOCUS LIMITED",
+   "d": -1.8,
+   "t": 118.9,
+   "p": [
+    [
+     "Double top",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "SHADOWFAX",
+   "n": "SHADOWFAX TECHNOLOGIES L",
+   "d": -2.79,
+   "t": 116.0,
+   "p": [
+    [
+     "Double top",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "UJJIVANSFB",
+   "n": "UJJIVAN SMALL FINANC BANK",
+   "d": -1.13,
+   "t": 114.1,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "JUSTDIAL",
+   "n": "JUSTDIAL LTD.",
+   "d": 0.36,
+   "t": 113.5,
+   "p": [
+    [
+     "Descending triangle",
+     "bearish"
+    ]
+   ]
+  },
+  {
+   "s": "KPIGREEN",
+   "n": "KPI GREEN ENERGY LIMITED",
+   "d": -3.17,
+   "t": 113.3,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  },
+  {
+   "s": "UNITDSPR",
+   "n": "UNITED SPIRITS LIMITED",
+   "d": -0.57,
+   "t": 110.7,
+   "p": [
+    [
+     "Double bottom",
+     "bullish"
+    ]
+   ]
+  }
+ ]
+}
